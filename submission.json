@@ -1,0 +1,8 @@
+{
+  "prompt": "A 13th-century Gothic medieval manuscript illumination page showing a monk-scholar in a scriptorium, obsessively copying every tiny crack, stain, blot and wormhole of one single parchment onto his own page, while three blank untouched parchments lie ignored beside him. Rendered in authentic Gothic manuscript illumination style: flat non-perspective figures with stylized drapery, deep lapis lazuli blue and vermillion red colors, burnished gold leaf borders and halos, intricate foliate marginalia with dragons and vine scrolls along the border, decorated historiated initial letter in the corner, visible vellum parchment texture. No photographic shading, no 3D depth, no modern elements, no realistic perspective. Flat 2D medieval page aesthetic only.",
+  "model": "Gemini",
+  "concept": "overfitting",
+  "tradition_name": "Medieval European Manuscript Illumination",
+  "tradition_period": "13th-14th century Gothic period",
+  "tradition_approach": "Flat non-perspective figures, lapis lazuli and vermillion palette, burnished gold leaf borders, foliate marginalia with dragons, historiated initials, and vellum texture — authentic Gothic scriptorium visual grammar."
+}
